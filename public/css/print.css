@@ -1,0 +1,13 @@
+@media print {
+
+    #laporan-filter,
+    #navbar,
+    #sidebar,
+    #hidden-print {
+        display: none;
+    }
+
+    #laporan-heading {
+        display: block;
+    }
+}
